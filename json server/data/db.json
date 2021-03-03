@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to my blog",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis dolore, ex inventore incidunt voluptate fuga. Animi modi repellat obcaecati, recusandae corrupti saepe quia alias dicta provident, ab cupiditate molestias earum.",
+      "likes": 30
+    },
+    {
+      "id": 2,
+      "title": "welcome to my Net blogh",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis dolore, ex inventore incidunt voluptate fuga. Animi modi repellat obcaecati, recusandae corrupti saepe quia alias dicta provident, ab cupiditate molestias earum.",
+      "likes": 15
+    },
+    {
+      "id": 3,
+      "title": "welcome to new blogh",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis dolore, ex inventore incidunt voluptate fuga. Animi modi repellat obcaecati, recusandae corrupti saepe quia alias dicta provident, ab cupiditate molestias earum.",
+      "likes": 20
+    },
+    {
+      "title": "d",
+      "body": "d",
+      "likes": 0,
+      "id": 4
+    }
+  ],
+  "polls": {
+    "id": 1,
+    "question": "Do you prefer Vue or React?",
+    "anserA": "Vue",
+    "answerB": "React"
+  }
+}
